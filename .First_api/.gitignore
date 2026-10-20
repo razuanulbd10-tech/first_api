@@ -1,0 +1,8 @@
+._*.py
+__pycache__
+*.pyc
+/.First_api/*
+.mypy_cache
+/dist/
+/build/
+*.egg-info/
